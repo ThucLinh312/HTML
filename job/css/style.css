@@ -1,0 +1,22 @@
+.save{
+    background-color:#5fe666 ;
+    border: none;
+    padding: 5px;
+    border-radius:3px ;
+    color: white;
+}
+.save:hover{
+    cursor: pointer;
+     background-color:#36933a ;
+    border: none;
+    padding: 5px;
+    border-radius:3px ;
+    color: white;
+}
+.delete{
+    background-color: red;
+    border: none;
+    padding: 5px;
+    border-radius:3px ;
+    color: white;
+}
